@@ -45,8 +45,8 @@ profiles:
 education:
   - area: Master of Research in Data Mining
     institution: Macquarie University
-    date_start: Jan 2025
-    date_end: Now
+    date_start: 2025-01-01
+    date_end: 2025-11-01
     summary: |
       Supervised by [Prof Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang), and [A/Prof Jia Wu](https://web.science.mq.edu.au/~jiawu/). Focused on Sequential Recommendation, Diffusion Model.
     # button:
@@ -54,8 +54,8 @@ education:
     #   url: 'https://example.com'
   - area: Master of Data Science
     institution: The University of Queensland
-    date_start: Feb 2023
-    date_end: Dec 2024
+    date_start: 2023-02-07
+    date_end: 2024-12-11
     summary: |
       GPA: 6.6/7.0
       Supervised by [Prof Xue Li](https://about.uq.edu.au/experts/973)
