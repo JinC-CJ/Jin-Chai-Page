@@ -1,64 +1,64 @@
 ---
 # Display name
-title: 吳健雄
+title: 柴进
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jin Chai
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jin
+last_name: Chai
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Master of Research
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Macquarie University
     url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'jin.chai@students.mq.edu.au'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/JinC-CJ
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: www.linkedin.com/in/jin-chai666
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master of Research in Data Mining
+    institution: Macquarie University
+    date_start: Jan 2025
+    date_end: Now
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Supervised by [Prof Jian Yang](https://researchers.mq.edu.au/en/persons/jian-yang), and [A/Prof Jia Wu](https://web.science.mq.edu.au/~jiawu/). Focused on Sequential Recommendation, Diffusion Model.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: Master of Data Science
+    institution: The University of Queensland
+    date_start: Feb 2023
+    date_end: Dec 2024
     summary: |
-      GPA: 3.8/4.0
-
+      GPA: 6.6/7.0
+      Supervised by [Prof Xue Li](https://about.uq.edu.au/experts/973)
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -69,7 +69,6 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
