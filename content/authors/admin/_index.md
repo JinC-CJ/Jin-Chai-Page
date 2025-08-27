@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'jin.chai@students.mq.edu.au'
     label: E-mail Me
-  - icon: orcid
+  - icon: brands/orcid
     url: https://orcid.org/0009-0000-1511-8587
   - icon: brands/github
     url: https://github.com/JinC-CJ

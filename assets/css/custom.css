@@ -1,0 +1,6 @@
+/* 控制首页 biography block 的 banner */
+.biography .hero-media img {
+  width: 100%;
+  height: auto;          /* 保持比例 */
+  object-fit: contain;   /* 保证不裁切 */
+}
