@@ -57,7 +57,7 @@ education:
     date_start: 2023-02-07
     date_end: 2024-12-11
     summary: |
-      GPA: 6.6/7.0
+      GPA: 6.6/7.0<br>
       Supervised by [Prof Xue Li](https://about.uq.edu.au/experts/973). Focused on GANs, and Synthetic Data Generation For Generating Vehicle Trajectory Data.
 
   - area: Bachelor of Computer Science
@@ -141,14 +141,14 @@ awards:
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-12-06'
     awarder: Macquarie University
-    icon: coursera
+    icon: assets/media/MQ.png
     summary: |
       I received the International Research Excellence Road to Research Scholarship, a competitive full scholarship from Macquarie University that fully supports my Master of Research program in recognition of exceptional academic excellence.
   - title: Dean's Commendation for Academic Excellence 2024 Semester 1
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2024-07-01'
     awarder: The University of Queensland
-    icon: edx
+    icon: assets/media/UQ.jpeg
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
@@ -158,22 +158,22 @@ awards:
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2025-03-11'
     awarder: The University of Queensland
-    icon: edx
+    icon: assets/media/UQ.jpeg
     summary: |
       I received the Faculty Commendation for Academic Excellence from the Faculty of Engineering, Architecture and Information Technology. This award recognizes students in the top tier of academic performance with a GPA of 6.6 or higher in Semester 2, 2024.
   - title: Dean's Commendation for Academic Excellence 2024 Semester 1
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2024-08-05'
-    awarder: edX
-    icon: edx
+    awarder: The University of Queensland
+    icon: assets/media/UQ.jpeg
     summary: |
       I received the Faculty Commendation for Academic Excellence from the Faculty of Engineering, Architecture and Information Technology. This award recognizes students in the top tier of academic performance with a GPA of 6.6 or higher in Semester 1, 2024.
 
   - title: Dean's Commendation for Academic Excellence 2023 Semester 1
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-08-03'
-    awarder: edX
-    icon: edx
+    awarder: The University of Queensland
+    icon: assets/media/UQ.jpeg
     summary: |
       I received the Faculty Commendation for Academic Excellence from the Faculty of Engineering, Architecture and Information Technology. This award recognizes students in the top tier of academic performance with a GPA of 6.6 or higher in Semester 1, 2023.
 ---
