@@ -178,4 +178,4 @@ awards:
       I received the Faculty Commendation for Academic Excellence from the Faculty of Engineering, Architecture and Information Technology. This award recognizes students in the top tier of academic performance with a GPA of 6.6 or higher in Semester 1, 2023.
 ---
 
-I am currently Master of Research Student at Macquarie University. My principal supervisor is Prof. Jian Yang and my associate supervisor is A. Prof. Jia Wu. I am interested in Sequential Recommendation, Diffusion Model, Reinforcement Learning, and Deep Learning.
+I am currently Master of Research Student at Macquarie University, Australia. My principal supervisor is Prof. Jian Yang and my associate supervisor is A/Prof. Jia Wu. I hold a Master's degree in Data Science from the University of Queensland, Australia. I am interested in Sequential Recommendation, Diffusion Model, Reinforcement Learning, and Deep Learning.
