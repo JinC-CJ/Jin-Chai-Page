@@ -58,7 +58,7 @@ education:
     date_end: 2024-12-11
     summary: |
       GPA: 6.6/7.0
-      Supervised by [Prof Xue Li](https://about.uq.edu.au/experts/973)
+      Supervised by [Prof Xue Li](https://about.uq.edu.au/experts/973). Focused on GANs, and Synthetic Data Generation For Generating Vehicle Trajectory Data.
 
   - area: Bachelor of Computer Science
     institution: Jilin Jianzhu University
@@ -146,7 +146,7 @@ awards:
       I received the International Research Excellence Road to Research Scholarship, a competitive full scholarship from Macquarie University that fully supports my Master of Research program in recognition of exceptional academic excellence.
   - title: Dean's Commendation for Academic Excellence 2024 Semester 1
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    date: '2024-07-01'
     awarder: The University of Queensland
     icon: edx
     summary: |
@@ -156,14 +156,14 @@ awards:
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: Dean's Commendation for Academic Excellence 2024 Semester 2
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    date: '2025-03-11'
     awarder: The University of Queensland
     icon: edx
     summary: |
       I received the Faculty Commendation for Academic Excellence from the Faculty of Engineering, Architecture and Information Technology. This award recognizes students in the top tier of academic performance with a GPA of 6.6 or higher in Semester 2, 2024.
   - title: Dean's Commendation for Academic Excellence 2024 Semester 1
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    date: '2024-08-05'
     awarder: edX
     icon: edx
     summary: |
@@ -171,7 +171,7 @@ awards:
 
   - title: Dean's Commendation for Academic Excellence 2023 Semester 1
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    date: '2023-08-03'
     awarder: edX
     icon: edx
     summary: |
